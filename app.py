@@ -4,7 +4,7 @@ from csv_pandas import CSVPandas
 from pandasai.llm import OpenAI
 
 
-llm = OpenAI(api_token="sk-proj-jNKWINpwa2RL5V4W102LT3BlbkFJb6dmcRii3ewlKHPmw8KP")
+llm = OpenAI(api_token="")
 
 st.set_page_config(layout="wide")
 

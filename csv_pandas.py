@@ -1,11 +1,7 @@
 import pandas as pd
 from pandasai import Agent, config, SmartDataframe
-from pandasai.llm import OpenAI
 
 import streamlit as st
-
-
-llm = OpenAI(api_token="sk-proj-jNKWINpwa2RL5V4W102LT3BlbkFJb6dmcRii3ewlKHPmw8KP")
 
 
 class CSVPandas:
