@@ -1,0 +1,9 @@
+pandasai
+pandasai[connectors]
+pandasai[llm]
+streamlit
+pandas
+geopandas
+geopy
+folium
+opencage
